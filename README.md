@@ -1,5 +1,7 @@
 # Portfolio-Profissional
+
 ...json
+{
 Olá, Sou Gustavo Torres e no momento desse relatório já são 00:30 da noite 
 estou no primeiro semestre de ads e fiz essa atividade para disciplina de front end
 para ser sincero eu tinha feito um projeto praticamente 60% IA
@@ -23,7 +25,9 @@ porém no celular ele distorce pois não adaptei para mobile
 até pensei em pedir ajuda novamente, mas deixei assim.
 está agradavel, simples bonito e fácil, e os links das minhas redes estão funcionando perfeitamente. 
 Ficou muito diferente do que o primeiro, mas é assim, evoluindo a cada dia.
+}
 ...
+
 
 
 
