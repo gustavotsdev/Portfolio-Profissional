@@ -1,9 +1,10 @@
 # Portfolio-Profissional
 
-json{
 
-Olá, Sou Gustavo Torres e no momento desse relatório já são 00:30 da noite 
+
+Olá, Sou Gustavo Torres e no momento desse relatório já são 01:04 da noite 
 estou no primeiro semestre de ads e fiz essa atividade para disciplina de front end
+que tinha como objetivo criar uma landing page com 3 sessoes e 3 rotas com o brasil api
 para ser sincero eu tinha feito um projeto praticamente 60% IA
 mas descartei ele e usei como base um projeto que estava em andamento durante as aulas
 então abri aquele html e copiei o código ja feito
